@@ -1,5 +1,7 @@
 <div align="center">
 
+# Tanish Jamage
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Tanish%20Jamage&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Django%20%26%20React%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="#">
@@ -17,6 +19,7 @@
 
 ## 👨‍💻 About Me
 
+- 👋 I am **Tanish Jamage**
 - 🎓 Student, going deep on **Python / Django full-stack development**
 - 🔭 Currently building **ExpenseTracker**, an AI-powered expense tracker with savings suggestions, PDF reports and a custom admin dashboard
 - 📐 Designing an **AI study planner** (Django + DRF + React + Celery + Redis)
