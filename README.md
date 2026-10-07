@@ -21,9 +21,7 @@
 <br/>
 
 ## 👨‍💻 About Me
-
-```yaml
-name: Yadnyesh Khotre
+Tanish Jamage
 role: Full-Stack Developer
 location: Pune, India
 currently_working_on: Nukaazo - A Hyperlocal E-commerce Platform
